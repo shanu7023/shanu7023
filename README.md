@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Shanu 👋
 
-<!--
-**shanu7023/shanu7023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning & AI Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about building Machine Learning and AI projects focused on solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Agentic AI
+
+## 🛠 Skills
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* SQL
+* Excel
+
+## 📌 Projects
+
+* Heart Disease Prediction
+* Employee Turnover Prediction
+* House Price Prediction
+* Medical Cost Prediction using Lasso Regression
+* Ticket Priority Prediction
+
+## 🌱 Currently Learning
+
+* Deep Learning
+* Generative AI
+* AI Agents
+* Advanced Machine Learning
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/shanu7023
+* LinkedIn: www.linkedin.com/in/shanu7023
