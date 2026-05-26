@@ -2,7 +2,7 @@
 
 🚀 Machine Learning & AI Enthusiast
 
-I am passionate about building Machine Learning and AI projects focused on solving real-world problems.
+Passionate about building Machine Learning and AI solutions focused on solving real-world problems through predictive modeling, feature engineering, and intelligent systems.
 
 ## 🔥 Current Focus
 
@@ -10,32 +10,40 @@ I am passionate about building Machine Learning and AI projects focused on solvi
 * Deep Learning
 * Generative AI
 * Agentic AI
+* Advanced AI Systems
 
 ## 🛠 Skills
 
 * Python
+* Machine Learning
+* Scikit-learn
 * Pandas
 * NumPy
-* Scikit-learn
 * SQL
-* Excel
+* Feature Engineering
+* Data Preprocessing
+* Model Evaluation
+* Deep Learning
+* Jupyter Notebook
+* GitHub
 
-## 📌 Projects
+## 📌 Featured Projects
 
-* Heart Disease Prediction
-* Employee Turnover Prediction
-* House Price Prediction
+* Loan Approval Prediction with Feature Engineering
+* Employee Turnover Prediction using Regularization
 * Medical Cost Prediction using Lasso Regression
-* Ticket Priority Prediction
+* Heart Disease Prediction using Multiple ML Algorithms
+* House Price Prediction using Linear Regression
 
 ## 🌱 Currently Learning
 
 * Deep Learning
 * Generative AI
-* AI Agents
+* AI Agents & Agentic AI
 * Advanced Machine Learning
+* Intelligent Automation
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/shanu7023
-* LinkedIn: www.linkedin.com/in/shanu7023
+* LinkedIn: https://www.linkedin.com/in/shanu7023
