@@ -29,11 +29,11 @@ Passionate about building Machine Learning and AI solutions focused on solving r
 
 ## 📌 Featured Projects
 
-* Loan Approval Prediction with Feature Engineering
-* Employee Turnover Prediction using Regularization
-* Medical Cost Prediction using Lasso Regression
-* Heart Disease Prediction using Multiple ML Algorithms
-* House Price Prediction using Linear Regression
+E-Commerce Revenue Prediction
+Loan Approval Prediction with Feature Engineering
+Medical Cost Prediction using Lasso Regression
+Employee Turnover Prediction using Regularization
+Decision Tree Classification & Regression
 
 ## 🌱 Currently Learning
 
